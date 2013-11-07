@@ -4,6 +4,9 @@
 /web-app/WEB-INF
 
 # IDE support files
+/.idea
+/*.iml
+/*.ipr
 /.classpath
 /.launch
 /.project
